@@ -1,6 +1,0 @@
-Student#1: 
-Name: muzz	Marks: 12
-
-Student#2: 
-Name: uzair	Marks: 14
-
