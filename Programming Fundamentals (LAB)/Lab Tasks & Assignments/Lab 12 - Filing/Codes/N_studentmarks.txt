@@ -1,0 +1,10 @@
+Name: muz	Marks: 12
+
+Name: uz	Marks: 567
+
+Name: azz	Marks: 6
+
+Name: tr	Marks: 2
+
+Name: jh	Marks: 15
+
