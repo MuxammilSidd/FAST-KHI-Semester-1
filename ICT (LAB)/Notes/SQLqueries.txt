@@ -1,0 +1,70 @@
+SELECT * FROM Customers 
+WHERE City LIKE 'a%';
+
+SELECT * FROM Products
+WHERE Price = 18;
+
+SELECT * FROM Products
+WHERE Price BETWEEN 50 AND 60;
+
+SELECT * FROM Products
+WHERE Price <> 18; <> and != are same
+
+SELECT * FROM Customers
+WHERE City IN ('Paris','London');
+
+SELECT * FROM Customers
+WHERE Country='Germany' AND City='Berlin';
+
+SELECT * FROM Customers
+WHERE Country='Germany' OR Country='Spain';
+   
+SELECT * FROM Customers
+WHERE Country='Germany' OR Country='Spain';
+
+SELECT * FROM Customers
+WHERE Country='Germany' AND (City='Berlin' OR City='StuttAgart');
+
+SELECT * FROM Customers
+WHERE NOT Country='Germany' AND NOT Country='USA';
+
+INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
+VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+
+UPDATE Customers
+SET ContactName = 'Alfred Schmidt', City = 'Frankfurt'
+WHERE CustomerID = 1;
+
+UPDATE Customers
+SET PostalCode = 00000
+WHERE Country = 'Mexico'; //if you omit where clause all records will be updated
+
+DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';
+
+DELETE FROM Customers;
+
+SELECT CustomerID AS ID, CustomerName AS Customer
+FROM Customers;
+
+SELECT CustomerName AS Customer, ContactName AS "Contact Person"
+FROM Customers; 
+
+SELECT CustomerName, CONCAT_WS(', ', Address, PostalCode, City, Country) AS Address
+FROM Customers;
+
+SELECT o.OrderID, o.OrderDate, c.CustomerName
+FROM Customers AS c, Orders AS o
+WHERE c.CustomerName='Around the Horn' AND c.CustomerID=o.CustomerID;
+
+SELECT Orders.OrderID, Orders.OrderDate, Customers.CustomerName
+FROM Customers, Orders
+WHERE Customers.CustomerName='Around the Horn' AND Customers.CustomerID=Orders.CustomerID;
+
+SELECT AVG(Price)
+FROM Products;
+
+SELECT SUM(Quantity)
+FROM OrderDetails;
+
+SELECT COUNT(ProductID)
+FROM Products;

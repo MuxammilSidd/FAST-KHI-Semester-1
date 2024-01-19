@@ -1,0 +1,51 @@
+.Signin:hover {
+    color: rgb(0, 183, 255);
+    cursor: pointer;
+}
+
+.logo-bar:hover {
+    cursor: pointer;
+}
+
+.navitem:hover {
+    background-color: black;
+}
+
+.list ul a:hover {
+    background-color: #1a1a1a;
+}
+
+.card:hover .card_bg img {
+    transition: 0.5s;
+    filter: hue-rotate(95deg);
+}
+
+.g-card:hover .g-text .g-content a p,.g-r-card:hover .grc-content div:last-child {
+    transition: 0.1s;
+    color: #008d7f;
+    cursor: pointer;
+}
+.g-card,.g-r-card:hover{
+    cursor: pointer;
+}
+
+.right ul li a:hover {
+    color: white;
+}
+
+.p-left div:hover {
+    transition: 0.5s;
+    cursor: pointer;
+    background-color: #008d7f;
+}
+
+.p-left div:hover a {
+    transition: 0.5s;
+    color: white;
+}
+.load a:hover {
+    color: white;
+    background-color: #008d7f;
+    transition: 0.3s;
+    
+}
