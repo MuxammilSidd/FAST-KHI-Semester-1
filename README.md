@@ -8,20 +8,47 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
 
 
 ### 🔗 Links to other semester repositories
-[![2nd Semester KHI]()](https://github.com/MuxammilSidd/FAST-KHI-Semester-2)
+- [![2nd Semester KHI]()](https://github.com/MuxammilSidd/FAST-KHI-Semester-2)
 
-[![3rd Semester KHI]()](https://github.com/MuxammilSidd/FAST-KHI-Semester-3)
+- [![3rd Semester KHI]()](https://github.com/MuxammilSidd/FAST-KHI-Semester-3)
 
 ### 🔗 Guide to get you started
-[![Useful tools you should know]()](https://github.com/MuxammilSidd/FAST-KHI-Semester-2)
+- [![Useful tools you should know]()]()
 
-[![Useful websites you should know]()](https://github.com/MuxammilSidd/FAST-KHI-Semester-2)
+- [Useful websites you should know!](#useful-websites-you-should-know)
 
 
 ### 🔗 How to crack your first semester at FAST NUCES!
-[![Time management]()](https://github.com/MuxammilSidd/FAST-KHI-Semester-2)
+- [![Time management]()]()
 
-[![Course-wise guide]()](https://github.com/MuxammilSidd/FAST-KHI-Semester-2)
+- [![Course-wise guide]()]()
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 
 ## Useful Websites you should know!
