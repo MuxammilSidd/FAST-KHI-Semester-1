@@ -74,20 +74,20 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
   </a> - Thousands of eBooks available to download for free!
 
 - <a href="https://sage.buildspace.so/projects">
-    <img src="https://avatars.githubusercontent.com/u/65048157?s=200&v=4" alt="Buildspace.so" width="32" height="32" style="vertical-align:middle; margin-bottom: 5px; text-decoration:none; border:none;"><span style="margin:5px;"> Buildspace.so</span>
+    <img src="https://avatars.githubusercontent.com/u/65048157?s=200&v=4" alt="Buildspace.so" width="32" height="32" style="vertical-align:middle; margin-bottom: 5px; text-decoration:none; border:none; border-radius: 8px"><span style="margin:5px;"> Buildspace.so</span>
   </a> - Find ideas and inspiration for your next project!
 
 - <a href="https://www.keybr.com/">
-    <img src="https://www.keybr.com/cover.png" alt="Keybr" width="30" height="30" style="vertical-align:middle; margin-bottom: px; text-decoration:none; border:none;"> <span style="margin:5px;"> Keybr</span>
+    <img src="https://www.keybr.com/cover.png" alt="Keybr" width="30" height="30" style="vertical-align:middle; margin-bottom: px; text-decoration:none; border:none; border-radius: 8px"> <span style="margin:5px;"> Keybr</span>
   </a> - Improve your typing speed and take it to the next level!
 
 ## Useful tools you should know!
 - <a href="https://solidpoint.ai/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMd6S0X2XFnVQLDr-kTJsyKjMhDwPCwFg9Q&s" alt="SolidPoint" width="25" height="25" style="vertical-align:middle; margin-bottom: px; text-decoration:none; border:none;"> Solidpoint.ai
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMd6S0X2XFnVQLDr-kTJsyKjMhDwPCwFg9Q&s" alt="SolidPoint" width="25" height="25" style="vertical-align:middle; margin-bottom: px; text-decoration:none; border:none; border-radius: 8px"> Solidpoint.ai
   </a> - Chat with your PDF documents — Extract information or answer questions from large PDF files like manuals, essays, books.!
 
 - <a href="https://www.chatpdf.com/">
-    <img src="https://pipedream.com/s.v0/app_n5hv82/logo/orig" alt="Chatpdf" width="25" height="25" style="vertical-align:middle; margin-bottom: 1px; text-decoration:none; border:none;"> Chatpdf.com
+    <img src="https://pipedream.com/s.v0/app_n5hv82/logo/orig" alt="Chatpdf" width="25" height="25" style="vertical-align:middle; margin-bottom: 1px; text-decoration:none; border:none; border-radius: 8px"> Chatpdf.com
   </a> - An online free YouTube Summarizer that automatically generates concise summaries of any video, saving you valuable time and energy!
 
 ## Useful repositories you should know!
