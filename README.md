@@ -59,7 +59,7 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
   </a> - Hundreds of free online tools to get you going on that assignment!
 
 - <a href="https://quizlet.com/">
-    <img src="https://logos-world.net/wp-content/uploads/2021/03/Quizlet-Logo.png" alt="Quizlet" width="70" height="40" style="vertical-align:middle; margin-bottom: px; text-decoration:none; border:none;">
+    <img src="https://logos-world.net/wp-content/uploads/2021/03/Quizlet-Logo.png" alt="Quizlet" width="70" height="40" style="vertical-align:middle; margin-bottom: -6px; text-decoration:none; border:none;">
   </a> - Expert textbook solutions to tally from!
 
 - <a href="https://www.gradesaver.com/">
