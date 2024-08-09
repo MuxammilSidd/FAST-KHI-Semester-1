@@ -20,9 +20,9 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
 - [Useful repositories you should know!](#useful-repositories-you-should-know)
 
 ### 🔗 How to crack your first semester at FAST NUCES!
-- [![Time management]()]()
+- [Time management](#time-management)
 
-- [![Course-wise guide]()]()
+- [Course-wise guide](#course-wise-guide)
 .
 
 .
@@ -74,11 +74,11 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
   </a> - Thousands of eBooks available to download for free!
 
 - <a href="https://sage.buildspace.so/projects">
-    <img src="https://avatars.githubusercontent.com/u/65048157?s=200&v=4" alt="Buildspace.so" width="32" height="32" style="vertical-align:middle; margin-bottom: 5px; text-decoration:none; border:none;"><span style="margin:5px;">Buildspace.so</span>
+    <img src="https://avatars.githubusercontent.com/u/65048157?s=200&v=4" alt="Buildspace.so" width="32" height="32" style="vertical-align:middle; margin-bottom: 5px; text-decoration:none; border:none;"><span style="margin:5px;"> Buildspace.so</span>
   </a> - Find ideas and inspiration for your next project!
 
 - <a href="https://www.keybr.com/">
-    <img src="https://www.keybr.com/cover.png" alt="Keybr" width="30" height="30" style="vertical-align:middle; margin-bottom: px; text-decoration:none; border:none;"> <span style="margin:5px;">Keybr</span>
+    <img src="https://www.keybr.com/cover.png" alt="Keybr" width="30" height="30" style="vertical-align:middle; margin-bottom: px; text-decoration:none; border:none;"> <span style="margin:5px;"> Keybr</span>
   </a> - Improve your typing speed and take it to the next level!
 
 ## Useful tools you should know!
@@ -96,3 +96,9 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
 - [Build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Coding projects and tutorials that might get you hired!
 
 - [Roadmap.sh](https://github.com/roadmapsh/deprecated-version) - Roadmap for every single developer role to exist!
+
+### Time Management
+pata chale toh mujhe bhi bata dena pls
+
+## Course wise guide
+Coming soon.
