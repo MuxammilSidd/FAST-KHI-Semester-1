@@ -52,7 +52,7 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
 
 
 ## Useful Websites you should know!
-- <a href="https://tinywow.com/">
-    <img src="https://tinywow.com/v3/img/favicon-tinywow.svg" alt="TinyWow Favicon" width="20" height="20">
-    <img src="https://tinywow.com/v3/img/logo.svg" alt="TinyWow Text" height="20">
+- <a href="https://tinywow.com/" style="text-decoration:none;">
+    <img src="https://tinywow.com/v3/img/favicon-tinywow.svg" alt="TinyWow Favicon" width="25" height="25" style="vertical-align:middle; margin-bottom: 1px;">
+    <img src="https://tinywow.com/v3/img/logo.svg" alt="TinyWow Text" height="25" style="vertical-align:middle; margin-bottom: 5px;">
   </a> - Hundreds of free online tools to get you going on that assignment!
