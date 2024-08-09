@@ -74,11 +74,11 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
   </a> - Thousands of eBooks available to download for free!
 
 - <a href="https://sage.buildspace.so/projects">
-    <img src="https://avatars.githubusercontent.com/u/65048157?s=200&v=4" alt="Buildspace.so" width="32" height="32" style="vertical-align:middle; margin-bottom: 10px; text-decoration:none; border:none;"> Buildspace.so
+    <img src="https://avatars.githubusercontent.com/u/65048157?s=200&v=4" alt="Buildspace.so" width="32" height="32" style="vertical-align:middle; margin-bottom: 10px; text-decoration:none; border:none; display:inline"> Buildspace.so
   </a> - Find ideas and inspiration for your next project!
 
 - <a href="https://www.keybr.com/">
-    <img src="https://www.keybr.com/cover.png" alt="Keybr" width="30" height="30" style="vertical-align:middle; margin-bottom: px; text-decoration:none; border:none;"> Keybr
+    <img src="https://www.keybr.com/cover.png" alt="Keybr" width="30" height="30" style="vertical-align:middle; margin-bottom: px; text-decoration:none; border:none; display:inline"> Keybr
   </a> - Improve your typing speed and take it to the next level!
 
 ## Useful tools you should know!
