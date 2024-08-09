@@ -57,6 +57,14 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
     <img src="https://tinywow.com/v3/img/logo.svg" alt="TinyWow Text" height="25" style="vertical-align:middle; margin-bottom: 5px; text-decoration:none; border:none;">
   </a> - Hundreds of free online tools to get you going on that assignment!
 
+- <a href="https://quizlet.com/">
+    <img src="http://www.w3.org/2000/svg" alt="Quizlet" width="25" height="25" style="vertical-align:middle; margin-bottom: 1px; text-decoration:none; border:none;">
+  </a> - Expert textbook solutions to tally from!
+
+- <a href="https://www.gradesaver.com/">
+    <img src="https://www.gradesaver.com/assets/logos/head-39d3d4f4e80fb364ecbffd1884663226a1a58efa38367c551694c88c40330163.svg" alt="Quizlet" width="80" height="80" style="vertical-align:middle; margin-bottom: 1px; text-decoration:none; border:none;">
+  </a> - Literally a grade-saver after Quizlet turned paid!
+
 
 ## Useful tools you should know!
 - <a href="https://tinywow.com/">
