@@ -73,14 +73,13 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
     <img src="https://www.pdfdrive.com/assets/img/logo-1.png.pagespeed.ce.5UNSDNAJsC.png" alt="PDFdrive" width="100" height="20" style="vertical-align:middle; margin-bottom: 10px; text-decoration:none; border:none;">
   </a> - Thousands of eBooks available to download for free!
 
-- <a href="https://sage.buildspace.so/projects" style="text-decoration:none; display:flex; align-items:center;">
-    <img src="https://avatars.githubusercontent.com/u/65048157?s=200&v=4" alt="Buildspace.so" width="32" height="32" style="vertical-align:middle; margin-right: 8px; border:none;"> Buildspace.so
+- <a href="https://sage.buildspace.so/projects">
+    <img src="https://avatars.githubusercontent.com/u/65048157?s=200&v=4" alt="Buildspace.so" width="32" height="32" style="vertical-align:middle; margin-bottom: 5px; text-decoration:none; border:none;"><span style="margin:5px;">Buildspace.so</span>
   </a> - Find ideas and inspiration for your next project!
 
-- <a href="https://www.keybr.com/" style="text-decoration:none; display:flex; align-items:center;">
-    <img src="https://www.keybr.com/cover.png" alt="Keybr" width="30" height="30" style="vertical-align:middle; margin-right: 8px; border:none;"> Keybr
+- <a href="https://www.keybr.com/">
+    <img src="https://www.keybr.com/cover.png" alt="Keybr" width="30" height="30" style="vertical-align:middle; margin-bottom: px; text-decoration:none; border:none;"> <span style="margin:5px;">Keybr</span>
   </a> - Improve your typing speed and take it to the next level!
-
 
 ## Useful tools you should know!
 - <a href="https://solidpoint.ai/">
