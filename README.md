@@ -127,12 +127,14 @@ pata chale toh mujhe bhi bata dena pls
 
 🔗 Useful Youtube Playlists:
 - Organic Chemistry Tutor 
-<a href="https://www.youtube.com/@TheOrganicChemistryTutor" style="vertical-align:middle; display:inline-block;">
-  <img src="https://yt3.googleusercontent.com/ytc/AIdro_lOQikQsmqQS3dG9VBvbJ03Eqqw7NshUvDNorj5UAZL6M0=s160-c-k-c0x00ffffff-no-rj" alt="SolidPoint" width="25" height="25" style="vertical-align:middle; text-decoration:none; border:none;">
-</a>
-  - [Pre-Calculus](https://youtube.com/playlist?list=PL0o_zxa4K1BU5sTWZ2YxFhpXwsnMfMke7&si=Qs-SBQGvDfTrRXQb)
-  - [CAL I ](https://youtube.com/playlist?list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv&si=dUjRXNOCNFO348TX)
-  - [Basic Integration](https://youtube.com/playlist?list=PL0o_zxa4K1BXDMB9u4YU7CGq1PDNIXn7r&si=CTRRgVwAGenMFOQ3)
+  <a href="https://www.youtube.com/@TheOrganicChemistryTutor" style="vertical-align:middle; display:inline-block;">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_lOQikQsmqQS3dG9VBvbJ03Eqqw7NshUvDNorj5UAZL6M0=s160-c-k-c0x00ffffff-no-rj" alt="Organic Chemistry Tutor" width="25" height="25" style="vertical-align:middle; text-decoration:none; border:none;">
+  </a>
+  <ul>
+    <li><a href="https://youtube.com/playlist?list=PL0o_zxa4K1BU5sTWZ2YxFhpXwsnMfMke7&si=Qs-SBQGvDfTrRXQb">Pre-Calculus</a></li>
+    <li><a href="https://youtube.com/playlist?list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv&si=dUjRXNOCNFO348TX">CAL I</a></li>
+    <li><a href="https://youtube.com/playlist?list=PL0o_zxa4K1BXDMB9u4YU7CGq1PDNIXn7r&si=CTRRgVwAGenMFOQ3">Basic Integration</a></li>
+  </ul>
 
 - [Domain & Range](https://youtube.com/playlist?list=PL3OWHVINvi7ZPL9hVKYaYbPVNjru8AYbl&si=15XI2MD8U533k38Y) - Everything about Domain & Range of a function.
 
