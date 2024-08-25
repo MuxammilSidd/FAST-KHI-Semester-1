@@ -128,7 +128,7 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Useful Youtube Playlists:
 - Organic Chemistry Tutor 
   <a href="https://www.youtube.com/@TheOrganicChemistryTutor" style="vertical-align:middle; display:inline-block;">
-    <img src="https://yt3.googleusercontent.com/ytc/AIdro_lOQikQsmqQS3dG9VBvbJ03Eqqw7NshUvDNorj5UAZL6M0=s160-c-k-c0x00ffffff-no-rj" alt="Organic Chemistry Tutor" width="25" height="25" style="vertical-align:middle; text-decoration:none; border:none;">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_lOQikQsmqQS3dG9VBvbJ03Eqqw7NshUvDNorj5UAZL6M0=s160-c-k-c0x00ffffff-no-rj" alt="Organic Chemistry Tutor" width="25" height="25" style="vertical-align:middle; text-decoration:none; border:none; margin-top: 10px;">
   </a>
   <ul>
     <li><a href="https://youtube.com/playlist?list=PL0o_zxa4K1BU5sTWZ2YxFhpXwsnMfMke7&si=Qs-SBQGvDfTrRXQb">Pre-Calculus</a></li>
