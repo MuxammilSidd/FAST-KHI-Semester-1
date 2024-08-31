@@ -9,16 +9,16 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
 - [3rd Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-3)
 
 ### 🔗 Guide to get you started
-- [Useful websites you should know!](#useful-websites-you-should-know)
+- [Useful websites you should know!](#-useful-websites-you-should-know)
 
-- [Useful tools you should know](#useful-tools-you-should-know)
+- [Useful tools you should know](#-useful-tools-you-should-know)
 
-- [Useful repositories you should know!](#useful-repositories-you-should-know)
+- [Useful repositories you should know!](#-useful-repositories-you-should-know)
 
 ### 🔗 How to crack your first semester at FAST NUCES!
-- [Time management](#time-management)
+- [Time management](#-time-management)
 
-- [Course-wise guide](#course-wise-guide)
+- [Course-wise guide](#-course-wise-guide)
 
 .
 
@@ -128,7 +128,7 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Useful Youtube Playlists:
 - Organic Chemistry Tutor 
   <a href="https://www.youtube.com/@TheOrganicChemistryTutor" style="vertical-align:middle; display:inline-block;">
-    <img src="https://yt3.googleusercontent.com/ytc/AIdro_lOQikQsmqQS3dG9VBvbJ03Eqqw7NshUvDNorj5UAZL6M0=s160-c-k-c0x00ffffff-no-rj" alt="Organic Chemistry Tutor" width="25" height="25" style="vertical-align:middle; text-decoration:none; border:none; margin-top: 10px;">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_lOQikQsmqQS3dG9VBvbJ03Eqqw7NshUvDNorj5UAZL6M0=s160-c-k-c0x00ffffff-no-rj" alt="Organic Chemistry Tutor" width="25" height="25" style="vertical-align:middle; text-decoration:none; border:none;">
   </a>
   <ul>
     <li><a href="https://youtube.com/playlist?list=PL0o_zxa4K1BU5sTWZ2YxFhpXwsnMfMke7&si=Qs-SBQGvDfTrRXQb">Pre-Calculus</a></li>
