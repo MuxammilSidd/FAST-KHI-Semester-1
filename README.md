@@ -204,3 +204,8 @@ pata chale toh mujhe bhi bata dena pls
 
 🔗 Full courses:
 - []()
+
+---
+<h1 style="text-align: center;">Can't find a course?</h2>
+
+### Check out other semester's repositories [here](#-links-to-other-semester-repositories)!
