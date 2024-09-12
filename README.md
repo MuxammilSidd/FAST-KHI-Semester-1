@@ -20,8 +20,6 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
 
 - [Course-wise guide](#-course-wise-guide)
 
-.
-
 ## 🔗 Useful Websites you should know!
 - <a href="https://www.wondar.site/" style="text-decoration:none; display:inline-block; margin-top: 12px;">
     <img src="https://www.wondar.site/static/images/logo-no-background.png" alt="WondarSite" width="30" height="30" style="vertical-align:middle; margin-bottom: 0; text-decoration:none; border:none;"> Wondar.site
@@ -55,11 +53,11 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
 ## 🔗 Useful tools you should know!
 - <a href="https://solidpoint.ai/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMd6S0X2XFnVQLDr-kTJsyKjMhDwPCwFg9Q&s" alt="SolidPoint" width="25" height="25" style="vertical-align:middle; margin-bottom: px; text-decoration:none; border:none; border-radius: 8px"> Solidpoint.ai
-  </a> - Chat with your PDF documents — Extract information or answer questions from large PDF files like manuals, essays, books.!
+  </a> - An online free YouTube Summarizer that automatically generates concise summaries of any video, saving you valuable time and energy!
 
 - <a href="https://www.chatpdf.com/">
     <img src="https://pipedream.com/s.v0/app_n5hv82/logo/orig" alt="Chatpdf" width="25" height="25" style="vertical-align:middle; margin-bottom: 1px; text-decoration:none; border:none; border-radius: 8px"> Chatpdf.com
-  </a> - An online free YouTube Summarizer that automatically generates concise summaries of any video, saving you valuable time and energy!
+  </a> - Chat with your PDF documents — Extract information or answer questions from large PDF files like manuals, essays, books.!
 
 ## 🔗 Useful repositories you should know!
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Teaches you to code hands-on for free!
@@ -81,8 +79,8 @@ pata chale toh mujhe bhi bata dena pls
 - [C Language Tutorials by Fahad Hussain](https://youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa&si=8U3X5F7tynwmAWB6)
 - [C Tutorial for Beginners by Bro Code](https://youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe&si=p0m2MAVvVyg7Umoi)
 
-
 🔗 Resources:
+- [Pointers in C/C++](https://youtu.be/zuegQmMdy8M?si=smFE2DL0BoEgCtHm) - (3hr full-course by freeCodeCamp.org).
 - [Introduction to Programming and Computer Science - Full Course](https://youtu.be/zOjov-2OZ0E?si=Rm9308t4MMDWsVFi) - (2hr One-shot by freeCodeCamp.org).
 
 - [PF Wondar.Site](https://www.wondar.site/subject/programming-fundamentals-pf) - Vast pool of FAST NU resources. Note: All content is from LHR Campus.
@@ -100,12 +98,10 @@ pata chale toh mujhe bhi bata dena pls
 
 - [PF in C++ Drive](https://drive.google.com/drive/folders/1WFbB33MDYV9ooz92zr1_bffhEb8Pye1_?usp=drive_link) - Note: Contains C++ content from CFD & LHR campuses.
 
-🔗 Full courses:
-- []()
-
 ---
 
 ### 📌 Applied Physics:
+Exams are based on numericals (majority) and reasoning/theoretical questions. Focus on the logic behind solving that numerical instead of the output. Be sure to remain attentive in lectures as instructors often tend to iterate over importance of a numerical, which ultimately comes out in exam. Questions in exams may not entirely be from the book, but with minor changes in values. A good way for practise is following numericals by the end of each chapter. Past papers will help even more! This might be bitter to accept, but knowing the right formula is the key to achieving a good grade. Reasoning questions can only be aced by a good grip on concepts. Don't forget to go through the summary at the end of each chapter for a quick-revision!
 
 🔗 Useful Youtube Playlists:
 - [Fundamentals of Physics 10th Ed. Problems Solutions](https://youtube.com/playlist?list=PLyv2kqJdsgffhCkxAkVWhlL3WzruTUg0V&si=LEb8D1QbQ4k1Zd_s)
@@ -113,17 +109,13 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Resources:
 - [AP Wondar.site](https://www.wondar.site/subject/applied-physics-ap) - Vast pool of FAST NU resources. Note: All content is from LHR Campus.
 
-- []() 
-
 🔗 Google Drives:
 - [AP Drive CFD Campus](https://drive.google.com/drive/folders/18m-ZBrwZTT987pgGPBOEYzLAwWYx1Va5?usp=drive_link)
-
-🔗 Full courses:
-- []()
 
 ---
 
 ### 📌 Calculus & Analytical Geometry:
+Want good marks? Practise all questions in the given exercise-sets in your Calculus outline. Questions in Mid-terms & Finals are exactly from the book! Have a strong grip on concepts through Youtube or any of your Cheetah Friends incase you have a hard time understanding lectures. Exams won't feel lengthy if you have done good practise, make sure to follow & demonstrate all steps to score the perfect marks! Practising those exercise-sets will surely payoff!
 
 🔗 Useful Youtube Playlists:
 - Organic Chemistry Tutor 
@@ -135,7 +127,7 @@ pata chale toh mujhe bhi bata dena pls
     <li><a href="https://youtube.com/playlist?list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv&si=dUjRXNOCNFO348TX">CAL I</a></li>
     <li><a href="https://youtube.com/playlist?list=PL0o_zxa4K1BXDMB9u4YU7CGq1PDNIXn7r&si=CTRRgVwAGenMFOQ3">Basic Integration</a></li>
   </ul>
-
+- [CAL I by Professor Leonard](https://youtube.com/playlist?list=PLF797E961509B4EB5&si=qfR4YQHF2W5ZrfvB)
 - [Domain & Range](https://youtube.com/playlist?list=PL3OWHVINvi7ZPL9hVKYaYbPVNjru8AYbl&si=15XI2MD8U533k38Y) - Everything about Domain & Range of a function.
 
 - [CAL I Anton 10th Ed. Solution Videos](https://youtube.com/playlist?list=PL3ynuUP4kvJjWvjXmAEYocy1oJ4Yel6aU&si=rjRncjy3iuVeajcx)
@@ -143,67 +135,38 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Resources:
 - [CALC Wondar.site](https://www.wondar.site/subject/calculus-cal) - Vast pool of FAST NU resources. Note: All content is from LHR Campus.
 
-- []() 
-
 🔗 Google Drives:
 - [CALC Drive CFD Campus](https://drive.google.com/drive/folders/1eEKS3DZajONaETkL7l4yIfWdrbJbbIpi?usp=drive_link)
-
-🔗 Full courses:
-- []()
 
 ---
 
 ### 📌 Functional English:
 
-🔗 Useful Youtube Playlists:
-- []()
-
 🔗 Resources:
 - [FE/ECC Wondar.site](https://www.wondar.site/subject/english-comprehension-and-composition-eng-comp) - Vast pool of FAST NU resources. Note: All content is from LHR Campus.
 
-- []() 
-
 🔗 Google Drives:
 - [FE Drive CFD Campus](https://drive.google.com/drive/folders/1n-MDd1IQmHskZKAwoy05Dbjj5Qs04IPN?usp=drive_link)
-
-🔗 Full courses:
-- []()
 
 ---
 
 ### 📌 Islamic Studies:
 
-🔗 Useful Youtube Playlists:
-- []()
-
 🔗 Resources:
 - [IRS Wondar.site](https://www.wondar.site/subject/islamic-studies) - Vast pool of FAST NU resources. Note: All content is from LHR Campus.
 
-- []() 
-
 🔗 Google Drives:
 - [IRS Drive CFD Campus](https://drive.google.com/drive/folders/14iLvAT20UAdGTxl0DQYM0FfsiviUfl_4?usp=drive_link)
-
-🔗 Full courses:
-- []()
 
 ---
 
 ### 📌 Introduction to Information & Communication Technology:
 
-🔗 Useful Youtube Playlists:
-- []()
-
 🔗 Resources:
 - [ICT Wondar.site](https://www.wondar.site/subject/introduction-to-ict-iict) - Vast pool of FAST NU resources. Note: All content is from LHR Campus.
 
-- []() 
-
 🔗 Google Drives:
 - [ICT Drive CFD Campus](https://drive.google.com/drive/folders/1yPk8VZbbB731S27JjBArGthtsJ89CiRS?usp=drive_link)
-
-🔗 Full courses:
-- []()
 
 ---
 <h1 style="text-align: center;">Can't find a course?</h2>
