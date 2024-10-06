@@ -15,6 +15,8 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
 
 - [Useful repositories you should know!](#-useful-repositories-you-should-know)
 
+- [Additional Resources](#-additional-resources)
+
 ### 🔗 How to crack your first semester at FAST NUCES!
 - [Time management](#-time-management)
 
@@ -172,3 +174,33 @@ Want good marks? Practise all questions in the given exercise-sets in your Calcu
 <h1 style="text-align: center;">Can't find a course?</h2>
 
 ### Check out other semester's repositories [here](#-links-to-other-semester-repositories)!
+
+---
+## 🔗 Additional Resources
+Feeling this repository isn't enough? 😩 Here are all links to repositories and drives I found: ⬇️
+
+### 📌 Github Repositories:
+- [Fast-Material-CS-SE (1st Sem)](https://github.com/Syed007Hassan/Fast-Material-CS-SE/tree/main/1ST%20SEMESTER) - by Syed Hassan
+- [1st-Semester-Material-FAST-NU](https://github.com/UmairKhan13/1st-Semester-Material-FAST-NU) - by Umair Khan
+- [FAST Resources (1st Sem)](https://github.com/codewith-usama/FAST-Resources/tree/main/1st%20Semester) - by codewith-Usama
+- [PastPaper-FAST-NUCES](https://github.com/codewith-usama/PastPaper-FAST-NUCES) - by codewith-Usama
+- [FAST-Resources (Semester 1)](https://github.com/ammansoomro/FAST-Resources/tree/main/Semester%201) - by Amman Soomro
+- [First-Semester](https://github.com/BilalAhmed-358/First-Semester) - by Bilal Ahmed
+- [FAST Resources (PF Programs)](https://github.com/hassanzhd/FAST-Resources/tree/master/PF%20Programs) - by Hassan Zahid
+- [FAST-NUCES Resources (Semester 1 CS)](https://github.com/muhammad-tahir0312/Fast-NUCES_Resources/tree/master/Semester%201%20(%20CS%20)) - by Muhammad Tahir
+- [1st-Semester-Material-FAST-NUCES](https://github.com/Mubin987/1st-Semester-Material-FAST-NUCES) - by Mubin
+- [FAST---Semester-1](https://github.com/sufiyaanusmani/FAST---Semester-1) - by Sufiyaan Usmani
+- [1st-Semester-FAST-BS-CS](https://github.com/OwaisK4/1st-Semester-FAST-BS-CS) - by Owais Khan
+- [Academic-Time-Machine](https://github.com/saleha-muzammil/Academic-Time-Machine) - by Saleha Muzammil (FAST LHR Campus)
+- [FAST-Data-Science-Material (Sem-1)](https://github.com/fatimaazfar/FAST-Data-Science-Material/tree/main/Semester%201) - by Fatima Azfar (FAST LHR Campus - DS)
+- [Semester-work (Sem-1)](https://github.com/SaraJamal26/Semester-work/tree/main/Semester%201) - by Sara Jamal
+- [1st-Semester-Material-FAST-NU-main](https://github.com/saadrehman171000/1st-Semester-Material-FAST-NU-main) - by Saad Rehman
+
+### 📌 Google Drives:
+- [1st Semester](https://drive.google.com/drive/folders/1LPJl5XsM1nZQmsyNRz4rJ0S9i6aCq-Ks?usp=drive_link) - by Muhammad Rayyan Ali
+- [FAST-Student-Forum-Share (Semester#01)](https://drive.google.com/drive/folders/1iRGflvc64gTG6-oxwG21XBzPVpRtpKyz?usp=drive_link) - by Mr. Tanveer
+- [Semester 1 - FAST NUCES Material](https://drive.google.com/drive/folders/10xw7FmihUoGP4g6jEWABmDWgLMo7SGPL?usp=drive_link) - by Maaz Nizami
+- [Semester 1 (CS)](https://drive.google.com/drive/folders/1K56NAtTc3U8Sq7tzjR278GZlKJvjwiyQ?usp=drive_link) - by Muhammad Tahir (access with NU id)
+- [1st Semester CFD](https://drive.google.com/drive/folders/1i-PO0_YUEPWZsDGkTKotNose_nJnya17?usp=drive_link) - by f223298 (Chiniot-Faisalabad Campus)
+
+Note: All relevant material to FAST NU KHI Campus has been added already from these archives.
