@@ -1,7 +1,11 @@
 
 # FAST-KHI-Semester-1
 
-Welcome FASTians! Here you can find relevant material for your first semester (BSCS) at FAST NUCES Karachi. For any queries/improvement feel free to contact me on k232001@nu.edu.pk 
+Welcome FASTians! Here you can find relevant material for your first semester (BSCS) at FAST NUCES Karachi. A little effort by my side to boost your academic journey. ✨
+Don't forget to star this repo if you find it useful! ⭐ 
+
+For any queries/improvement feel free to contact me on k232001@nu.edu.pk
+For contributions kindly look [here]()
 
 ### 🔗 Links to other semester repositories
 - [2nd Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-2)
@@ -17,10 +21,20 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
 
 - [Additional Resources](#-additional-resources)
 
+- [Mistakes I made in my 1st-Semester](#-mistakes-i-made-in-my-1st-semester)
+
 ### 🔗 How to crack your first semester at FAST NUCES!
 - [Time management](#-time-management)
 
 - [Course-wise guide](#-course-wise-guide)
+  <ul>
+  <li><a href="#-programming-fundamentals">Programming Fundamentals (Theory+Lab)</li>
+  <li><a href="#-applied-physics">Applied Physics</li>
+  <li><a href="#-calculus--analytical-geometry">Calculus & Analytical Geometry</li>
+  <li><a href="#-functional-english">Functional English (Theory+Lab)</li>
+  <li><a href="#-islamic-studies">Islamic Studies</li>
+  <li><a href="#-introduction-to-information--communication-technology">Introduction to Information & Communication Technology (ICT Lab)</li>
+  </ul>
 
 ## 🔗 Useful Websites you should know!
 - <a href="https://www.wondar.site/" style="text-decoration:none; display:inline-block; margin-top: 12px;">
@@ -188,7 +202,7 @@ Feeling this repository isn't enough? 😩 Here are all links to repositories an
 - [First-Semester](https://github.com/BilalAhmed-358/First-Semester) - by Bilal Ahmed
 - [FAST Resources (PF Programs)](https://github.com/hassanzhd/FAST-Resources/tree/master/PF%20Programs) - by Hassan Zahid
 - [FAST-NUCES Resources (Semester 1 CS)](https://github.com/muhammad-tahir0312/Fast-NUCES_Resources/tree/master/Semester%201%20(%20CS%20)) - by Muhammad Tahir
-- [1st-Semester-Material-FAST-NUCES](https://github.com/Mubin987/1st-Semester-Material-FAST-NUCES) - by Mubin
+- [1st-Semester-Material-FAST-NUCES](https://github.com/Mubin987/1st-Semester-Material-FAST-NUCES) - by Mubin Farid
 - [FAST---Semester-1](https://github.com/sufiyaanusmani/FAST---Semester-1) - by Sufiyaan Usmani
 - [1st-Semester-FAST-BS-CS](https://github.com/OwaisK4/1st-Semester-FAST-BS-CS) - by Owais Khan
 - [Academic-Time-Machine](https://github.com/saleha-muzammil/Academic-Time-Machine) - by Saleha Muzammil (FAST LHR Campus)
@@ -204,3 +218,14 @@ Feeling this repository isn't enough? 😩 Here are all links to repositories an
 - [1st Semester CFD](https://drive.google.com/drive/folders/1i-PO0_YUEPWZsDGkTKotNose_nJnya17?usp=drive_link) - by f223298 (Chiniot-Faisalabad Campus)
 
 Note: All relevant material to FAST NU KHI Campus has been added already from these archives.
+
+## 🔗 Mistakes I made in my 1st-Semester!
+Here is a bunch of blunders I wish I hadn't made in my first semester at FAST KHI.
+(Hopefully not again)
+- Made myself busy in making the finest notes during lectures instead of actually listening and understanding what is being taught.
+(bro thought he's gonna be an academic-weapon cooking those notes)
+- Worried more than required on less-important subjects - almost neglected the actual effort-requiring subjects over it.
+(no disses intended on FE, real)
+- Didn't accept the fact to reconsider my routine and time expenditure - couldn't let go of the casual college life and activities
+rather than realizing that university life does require to let go of your preivous routine and follow one that prioritizes
+university activities in all aspects.
