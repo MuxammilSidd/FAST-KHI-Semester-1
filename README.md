@@ -96,6 +96,7 @@ pata chale toh mujhe bhi bata dena pls
 - [C Tutorial for Beginners by Bro Code](https://youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe&si=p0m2MAVvVyg7Umoi)
 
 🔗 Resources:
+- [C Programming Exercises Solutions for Beginners](https://codeforwin.org/c-programming-examples-exercises-solutions-beginners)
 - [Pointers in C/C++](https://youtu.be/zuegQmMdy8M?si=smFE2DL0BoEgCtHm) - (3hr full-course by freeCodeCamp.org).
 - [Introduction to Programming and Computer Science - Full Course](https://youtu.be/zOjov-2OZ0E?si=Rm9308t4MMDWsVFi) - (2hr One-shot by freeCodeCamp.org).
 
