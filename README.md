@@ -4,8 +4,7 @@
 Welcome FASTians! Here you can find relevant material for your first semester (BSCS) at FAST NUCES Karachi. A little effort by my side to boost your academic journey. ✨
 Don't forget to star this repo if you find it useful! ⭐ 
 
-For any queries/improvement feel free to contact me on k232001@nu.edu.pk
-For contributions kindly look [here](./CONTRIBUTING.md)
+For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For contributions kindly look [here](./CONTRIBUTING.md).
 
 ### 🔗 Links to other semester repositories
 - [2nd Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-2)
@@ -96,6 +95,7 @@ pata chale toh mujhe bhi bata dena pls
 - [C Tutorial for Beginners by Bro Code](https://youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe&si=p0m2MAVvVyg7Umoi)
 
 🔗 Resources:
+- [PF Repository by Ms. Sumaiyah Zahid](https://github.com/SumaiyahZahid/ProgrammingFundamentals) - a well-managed repository covering programming fundamentals based on Fall'2024.
 - [C Programming Exercises Solutions for Beginners](https://codeforwin.org/c-programming-examples-exercises-solutions-beginners)
 - [Pointers in C/C++](https://youtu.be/zuegQmMdy8M?si=smFE2DL0BoEgCtHm) - (3hr full-course by freeCodeCamp.org).
 - [Introduction to Programming and Computer Science - Full Course](https://youtu.be/zOjov-2OZ0E?si=Rm9308t4MMDWsVFi) - (2hr One-shot by freeCodeCamp.org).
@@ -198,6 +198,7 @@ Feeling this repository isn't enough? 😩 Here are all links to repositories an
 - [Fast-Material-CS-SE (1st Sem)](https://github.com/Syed007Hassan/Fast-Material-CS-SE/tree/main/1ST%20SEMESTER) - by Syed Hassan
 - [1st-Semester-Material-FAST-NU](https://github.com/UmairKhan13/1st-Semester-Material-FAST-NU) - by Umair Khan
 - [FAST Resources (1st Sem)](https://github.com/codewith-usama/FAST-Resources/tree/main/1st%20Semester) - by codewith-Usama
+- [Programming Fundamentals](https://github.com/SumaiyahZahid/ProgrammingFundamentals) - by Ms. Sumaiyah Zahid
 - [PastPaper-FAST-NUCES](https://github.com/codewith-usama/PastPaper-FAST-NUCES) - by codewith-Usama
 - [FAST-Resources (Semester 1)](https://github.com/ammansoomro/FAST-Resources/tree/main/Semester%201) - by Amman Soomro
 - [First-Semester](https://github.com/BilalAhmed-358/First-Semester) - by Bilal Ahmed
@@ -228,5 +229,5 @@ Here is a bunch of blunders I wish I hadn't made in my first semester at FAST KH
 - Worried more than required on less-important subjects - almost neglected the actual effort-requiring subjects over it.
 (no disses intended on FE, real)
 - Didn't accept the fact to reconsider my routine and time expenditure - couldn't let go of the casual college life and activities
-rather than realizing that university life does require to let go of your preivous routine and follow one that prioritizes
+rather than realizing that university life does require to let go of your previous routine and follow one that prioritizes
 university activities in all aspects.
