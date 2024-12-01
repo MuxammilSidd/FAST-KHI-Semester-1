@@ -5,7 +5,7 @@ Welcome FASTians! Here you can find relevant material for your first semester (B
 Don't forget to star this repo if you find it useful! ⭐ 
 
 For any queries/improvement feel free to contact me on k232001@nu.edu.pk
-For contributions kindly look [here]()
+For contributions kindly look [here](https://github.com/MuxammilSidd/FAST-KHI-Semester-1/CONTRIBUTE.md)
 
 ### 🔗 Links to other semester repositories
 - [2nd Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-2)
