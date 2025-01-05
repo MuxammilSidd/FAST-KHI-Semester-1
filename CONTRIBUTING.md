@@ -4,8 +4,10 @@
 - Go to [FAST-KHI-Semester-1](https://github.com/MuxammilSidd/FAST-KHI-Semester-1) and click **Fork**.  
   *(Note: Ensure that you are logged in with your GitHub account.)*
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/MuxammilSidd/FAST-KHI-Semester-1/blob/assets/media-assets/contributing/forking.mp4" type="video/mp4">
+<video width="1280" height="720" controls>
+  <source src="https://raw.githubusercontent.com/MuxammilSidd/FAST-KHI-Semester-1/media-assets/contributing/forking.mp4
+  " type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 ---
