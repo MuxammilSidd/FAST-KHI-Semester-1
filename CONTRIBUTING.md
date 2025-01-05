@@ -5,8 +5,7 @@
   *(Note: Ensure that you are logged in with your GitHub account.)*
 
 <video width="1280" height="720" controls>
-  <source src="https://raw.githubusercontent.com/MuxammilSidd/FAST-KHI-Semester-1/media-assets/contributing/forking.mp4
-  " type="video/mp4">
+  <source src="https://github.com/MuxammilSidd/FAST-KHI-Semester-1/raw/refs/heads/assets/media-assets/contributing/forking.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
