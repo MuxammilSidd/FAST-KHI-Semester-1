@@ -23,7 +23,7 @@
 ---
 
 ## Step 3: Add files that you wish to contribute
-- Navigate to the cloned repository in your file explorer and add files.
+- Navigate to the cloned repository in your file explorer by selecting **Repository** > **Show in explorer**.
 
 <img src="https://github.com/MuxammilSidd/FAST-KHI-Semester-1/raw/refs/heads/assets/media-assets/contributing/navigate.png"></img>
 - Paste the files you wish in the relevant folder.
@@ -35,7 +35,7 @@
 ---
 
 ## Step 4: Commit and push your changes
-- Head over to Github Desktop App and review the file changes.
+- Head over to **Github Desktop App** and review the file changes.
 - Add a relevant summary describing the files you added.  
   *(For clarity, consider adding a brief description.)*
 
@@ -48,7 +48,7 @@
 ---
 
 ## Step 5: Create a pull request
-- Head over to your fork on GitHub.  
+- Head over to your fork on **GitHub**.  
 - Select **Contribute** > **Open pull request**.
 
 <img src="https://github.com/MuxammilSidd/FAST-KHI-Semester-1/raw/refs/heads/assets/media-assets/contributing/pullReq01.png"></img>

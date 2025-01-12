@@ -11,6 +11,8 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 
 - [3rd Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-3)
 
+- [4th Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-4)
+
 ### 🔗 Guide to get you started
 - [Useful websites you should know!](#-useful-websites-you-should-know)
 
@@ -126,7 +128,8 @@ Exams are based on numericals (majority) and reasoning/theoretical questions. Fo
 🔗 Resources:
 - [AP Wondar.site](https://www.wondar.site/subject/applied-physics-ap) - Vast pool of FAST NU resources. Note: All content is from LHR Campus.
 
-🔗 Google Drives:
+🔗 Google Drives: (Access with NU-ID)
+- [AP CS/CY Fall'24 Drive](https://drive.google.com/drive/folders/1xrrFSTGLHgdxNmUSZZ55yKKgPfB8TNfZfYHRa2ED4zS3118sNVzjdXAjTfXT-fUTCdO5qZk7?usp=drive_link) - by Dr. Muhammad Adeel
 - [AP Drive CFD Campus](https://drive.google.com/drive/folders/18m-ZBrwZTT987pgGPBOEYzLAwWYx1Va5?usp=drive_link)
 
 ---
