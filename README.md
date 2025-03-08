@@ -24,18 +24,22 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 
 - [Mistakes I made in my 1st-Semester](#-mistakes-i-made-in-my-1st-semester)
 
+<!-- ### 🔗 Semester Overview -->
+
 ### 🔗 How to crack your first semester at FAST NUCES!
 - [Time management](#-time-management)
 
 - [Course-wise guide](#-course-wise-guide)
-  <ul>
-  <li><a href="#-programming-fundamentals">Programming Fundamentals (Theory+Lab)</li>
-  <li><a href="#-applied-physics">Applied Physics</li>
-  <li><a href="#-calculus--analytical-geometry">Calculus & Analytical Geometry</li>
-  <li><a href="#-functional-english">Functional English (Theory+Lab)</li>
-  <li><a href="#-islamic-studies">Islamic Studies</li>
-  <li><a href="#-introduction-to-information--communication-technology">Introduction to Information & Communication Technology (ICT Lab)</li>
-  </ul>
+  | #  | Course Code | Short  | Name                                                                 | Type      | Credit Hours |
+  |----|------------|--------|----------------------------------------------------------------------|----------|--------------|
+  | 1  | CS1002     | PF     | [Programming Fundamentals](#-programming-fundamentals)               | Core     | 3+1          |
+  | 2  | NS1001     | AP     | [Applied Physics](#-applied-physics)                                 | Core     | 3            |
+  | 3  | MT1003     | CAG    | [Calculus & Analytical Geometry](#-calculus--analytical-geometry)   | Core     | 3           |
+  | 4  | SS1012     | FE     | [Functional English](#-functional-english)                           | Core     | 2+1          |
+  | 5  | SS1007     | ISL    | [Islamic Studies](#-islamic-studies)                                 | Core     | 2            |
+  | 6  | CL1000     | ICT    | [Introduction to Information & Communication Technology](#-introduction-to-information--communication-technology) | Core | 1          |
+  |    |            |        | **Total Credit Hours:**                                             |          | **16**       |
+
 
 ## 🔗 Useful Websites you should know!
 - <a href="https://www.wondar.site/" style="text-decoration:none; display:inline-block; margin-top: 12px;">
@@ -96,6 +100,9 @@ pata chale toh mujhe bhi bata dena pls
 - [C Language Tutorials by Fahad Hussain](https://youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa&si=8U3X5F7tynwmAWB6)
 - [C Tutorial for Beginners by Bro Code](https://youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe&si=p0m2MAVvVyg7Umoi)
 
+🔗 Projects:
+- [TypingMaster](https://github.com/ordinall/TypingMaster) - 1st semester project (in C++) by Abdullah Abid Ansari.
+
 🔗 Resources:
 - [PF Repository by Ms. Sumaiyah Zahid](https://github.com/SumaiyahZahid/ProgrammingFundamentals) - a well-managed repository covering programming fundamentals based on Fall'2024.
 - [C Programming Exercises Solutions for Beginners](https://codeforwin.org/c-programming-examples-exercises-solutions-beginners)
@@ -120,7 +127,7 @@ pata chale toh mujhe bhi bata dena pls
 ---
 
 ### 📌 Applied Physics:
-Exams are based on numericals (majority) and reasoning/theoretical questions. Focus on the logic behind solving that numerical instead of the output. Be sure to remain attentive in lectures as instructors often tend to iterate over importance of a numerical, which ultimately comes out in exam. Questions in exams may not entirely be from the book, but with minor changes in values. A good way for practise is following numericals by the end of each chapter. Past papers will help even more! This might be bitter to accept, but knowing the right formula is the key to achieving a good grade. Reasoning questions can only be aced by a good grip on concepts. Don't forget to go through the summary at the end of each chapter for a quick-revision!
+Exams are based on numericals (majority) and reasoning/theoretical questions. Focus on the logic behind solving that numerical instead of the output. Be sure to remain attentive in lectures as instructors often tend to iterate over importance of a numerical, which ultimately comes out in exam. Questions in exams may not entirely be from the book, but with minor changes in values. A good way for practice is following numericals by the end of each chapter. Past papers will help even more! This might be bitter to accept, but knowing the right formula is the key to achieving a good grade. Reasoning questions can only be aced by a good grip on concepts. Don't forget to go through the summary at the end of each chapter for a quick-revision!
 
 🔗 Useful Youtube Playlists:
 - [Fundamentals of Physics 10th Ed. Problems Solutions](https://youtube.com/playlist?list=PLyv2kqJdsgffhCkxAkVWhlL3WzruTUg0V&si=LEb8D1QbQ4k1Zd_s)
@@ -135,7 +142,7 @@ Exams are based on numericals (majority) and reasoning/theoretical questions. Fo
 ---
 
 ### 📌 Calculus & Analytical Geometry:
-Want good marks? Practise all questions in the given exercise-sets in your Calculus outline. Questions in Mid-terms & Finals are exactly from the book! Have a strong grip on concepts through Youtube or any of your Cheetah Friends incase you have a hard time understanding lectures. Exams won't feel lengthy if you have done good practise, make sure to follow & demonstrate all steps to score the perfect marks! Practising those exercise-sets will surely payoff!
+Want good marks? Practice all questions in the given exercise-sets in your Calculus outline. Questions in Mid-terms & Finals are exactly from the book! Have a strong grip on concepts through Youtube or any of your Cheetah Friends incase you have a hard time understanding lectures. Exams won't feel lengthy if you have done good practice, make sure to follow & demonstrate all steps to score the perfect marks! Practising those exercise-sets will surely payoff!
 
 🔗 Useful Youtube Playlists:
 - Organic Chemistry Tutor 
@@ -208,6 +215,7 @@ Feeling this repository isn't enough? 😩 Here are all links to repositories an
 - [FAST Resources (PF Programs)](https://github.com/hassanzhd/FAST-Resources/tree/master/PF%20Programs) - by Hassan Zahid
 - [FAST-NUCES Resources (Semester 1 CS)](https://github.com/muhammad-tahir0312/Fast-NUCES_Resources/tree/master/Semester%201%20(%20CS%20)) - by Muhammad Tahir
 - [1st-Semester-Material-FAST-NUCES](https://github.com/Mubin987/1st-Semester-Material-FAST-NUCES) - by Mubin Farid
+- [FAST-NUCES Semester 2](https://github.com/sufiyaanusmani/FAST-NUCES/tree/main/Semester%201) - by Sufiyaan Usmani
 - [FAST---Semester-1](https://github.com/sufiyaanusmani/FAST---Semester-1) - by Sufiyaan Usmani
 - [1st-Semester-FAST-BS-CS](https://github.com/OwaisK4/1st-Semester-FAST-BS-CS) - by Owais Khan
 - [Academic-Time-Machine](https://github.com/saleha-muzammil/Academic-Time-Machine) - by Saleha Muzammil (FAST LHR Campus)
