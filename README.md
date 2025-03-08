@@ -34,12 +34,11 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   |----|------------|--------|----------------------------------------------------------------------|----------|--------------|
   | 1  | CS1002     | PF     | [Programming Fundamentals](#-programming-fundamentals)               | Core     | 3+1          |
   | 2  | NS1001     | AP     | [Applied Physics](#-applied-physics)                                 | Core     | 3            |
-  | 3  | MT1003     | CAG    | [Calculus & Analytical Geometry](#-calculus--analytical-geometry)   | Core     | 3           |
+  | 3  | MT1003     | CAG    | [Calculus & Analytical Geometry](#-calculus--analytical-geometry)   | Core     | 3            |
   | 4  | SS1012     | FE     | [Functional English](#-functional-english)                           | Core     | 2+1          |
   | 5  | SS1007     | ISL    | [Islamic Studies](#-islamic-studies)                                 | Core     | 2            |
   | 6  | CL1000     | ICT    | [Introduction to Information & Communication Technology](#-introduction-to-information--communication-technology) | Core | 1          |
-  |    |            |        | **Total Credit Hours:**                                             |          | **16**       |
-
+  |    |            |        | **Total Credit Hours:**                                             | **16**    |
 
 ## 🔗 Useful Websites you should know!
 - <a href="https://www.wondar.site/" style="text-decoration:none; display:inline-block; margin-top: 12px;">
