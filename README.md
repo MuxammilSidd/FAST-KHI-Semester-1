@@ -90,7 +90,8 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
     <td><b>16</b></td>
   </tr>
 </table>
-<i>Note:</i> "Islamic Studies" was interchanged with "[Ideology & Constitution of Pakistan (ICP)](https://github.com/MuxammilSidd/FAST-KHI-Semester-2/tree/main/Ideology%20%26%20Constitution%20of%20Pakistan)" for BS(CS) from Fall'24. Access ICP content from [FAST-KHI-Semester-2](https://github.com/MuxammilSidd/FAST-KHI-Semester-2) repository!
+
+*Note*: "Islamic Studies" was interchanged with "[Ideology & Constitution of Pakistan (ICP)](https://github.com/MuxammilSidd/FAST-KHI-Semester-2/tree/main/Ideology%20%26%20Constitution%20of%20Pakistan)" for BS(CS) from Fall'24. Access ICP content from [FAST-KHI-Semester-2](https://github.com/MuxammilSidd/FAST-KHI-Semester-2) repository!
 
 ## 🔗 Useful Websites you should know!
 - <a href="https://www.wondar.site/" style="text-decoration:none; display:inline-block; margin-top: 12px;">
