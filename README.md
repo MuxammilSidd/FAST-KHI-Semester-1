@@ -24,21 +24,73 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 
 - [Mistakes I made in my 1st-Semester](#-mistakes-i-made-in-my-1st-semester)
 
-<!-- ### 🔗 Semester Overview -->
-
 ### 🔗 How to crack your first semester at FAST NUCES!
 - [Time management](#-time-management)
 
 - [Course-wise guide](#-course-wise-guide)
-  | #  | Course Code | Short  | Name                                                                 | Type      | Credit Hours |
-  |----|------------|--------|----------------------------------------------------------------------|----------|--------------|
-  | 1  | CS1002     | PF     | [Programming Fundamentals](#-programming-fundamentals)               | Core     | 3+1          |
-  | 2  | NS1001     | AP     | [Applied Physics](#-applied-physics)                                 | Core     | 3            |
-  | 3  | MT1003     | CAG    | [Calculus & Analytical Geometry](#-calculus--analytical-geometry)   | Core     | 3            |
-  | 4  | SS1012     | FE     | [Functional English](#-functional-english)                           | Core     | 2+1          |
-  | 5  | SS1007     | ISL    | [Islamic Studies](#-islamic-studies)                                 | Core     | 2            |
-  | 6  | CL1000     | ICT    | [Introduction to Information & Communication Technology](#-introduction-to-information--communication-technology) | Core | 1          |
-  |    |            |        | **Total Credit Hours:**                                             | **16**    |
+  <table>
+  <tr>
+    <th>#</th>
+    <th>Course Code</th>
+    <th>Short</th>
+    <th>Name</th>
+    <th>Type</th>
+    <th>Credit Hours</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>CS1002</td>
+    <td>PF</td>
+    <td><a href="#-programming-fundamentals">Programming Fundamentals</a></td>
+    <td>Core</td>
+    <td>3+1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>NS1001</td>
+    <td>AP</td>
+    <td><a href="#-applied-physics">Applied Physics</a></td>
+    <td>Core</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>MT1003</td>
+    <td>CAG</td>
+    <td><a href="#-calculus--analytical-geometry">Calculus & Analytical Geometry</a></td>
+    <td>Core</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>SS1012</td>
+    <td>FE</td>
+    <td><a href="#-functional-english">Functional English</a></td>
+    <td>Core</td>
+    <td>2+1</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>SS1007</td>
+    <td>IRS</td>
+    <td><a href="#-islamic-studies">Islamic Studies</a></td>
+    <td>Core</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>CL1000</td>
+    <td>ICT</td>
+    <td><a href="#-introduction-to-information--communication-technology">Introduction to Information & Communication Technology</a></td>
+    <td>Core</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td colspan="5" style="text-align:right;"><b>Total Credit Hours:</b></td>
+    <td><b>16</b></td>
+  </tr>
+</table>
+<i>Note:</i> "Islamic Studies" was interchanged with "[Ideology & Constitution of Pakistan (ICP)](https://github.com/MuxammilSidd/FAST-KHI-Semester-2/tree/main/Ideology%20%26%20Constitution%20of%20Pakistan)" for BS(CS) from Fall'24. Access ICP content from [FAST-KHI-Semester-2](https://github.com/MuxammilSidd/FAST-KHI-Semester-2) repository!
 
 ## 🔗 Useful Websites you should know!
 - <a href="https://www.wondar.site/" style="text-decoration:none; display:inline-block; margin-top: 12px;">
@@ -100,6 +152,7 @@ pata chale toh mujhe bhi bata dena pls
 - [C Tutorial for Beginners by Bro Code](https://youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe&si=p0m2MAVvVyg7Umoi)
 
 🔗 Projects:
+- ⭐ [Samurai Typing Game](https://urnothaseeb.itch.io/samurai-typing-game) - 1st semester project using RayLib (in C) by [Haseeb Khalid](https://itch.io/profile/urnothaseeb). 
 - [TypingMaster](https://github.com/ordinall/TypingMaster) - 1st semester project (in C++) by Abdullah Abid Ansari.
 
 🔗 Resources:
