@@ -207,8 +207,7 @@ Want good marks? Practice all questions in the given exercise-sets in your Calcu
     <li><a href="https://youtube.com/playlist?list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv&si=dUjRXNOCNFO348TX">CAL I</a></li>
     <li><a href="https://youtube.com/playlist?list=PL0o_zxa4K1BXDMB9u4YU7CGq1PDNIXn7r&si=CTRRgVwAGenMFOQ3">Basic Integration</a></li>
   </ul>
-  - Dr. Trefor Bazett 
-  <a href="https://www.youtube.com/@DrTrefor" style="vertical-align:middle; display:inline-block;"></a>
+- <a href="https://www.youtube.com/@DrTrefor" style="vertical-align:middle; display:inline-block;">Dr. Trefor Bazett </a>
   <ul>
     <li><a href="https://youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m&feature=shared">Calculus I (Limits, Derivative, Integrals)</a></li>
     <li><a href="https://youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n&feature=shared">Calculus II (Integration Methods, Series, Parametric/Polar, Vectors)</a> Important for Chapter09: "Infinite Series"</li>
