@@ -56,7 +56,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   <tr>
     <td>3</td>
     <td>MT1003</td>
-    <td>CAG</td>
+    <td>CAL</td>
     <td><a href="#-calculus--analytical-geometry">Calculus & Analytical Geometry</a></td>
     <td>Core</td>
     <td>3</td>
@@ -145,6 +145,9 @@ pata chale toh mujhe bhi bata dena pls
 ## 🔗 Course wise guide
 
 ### 📌 Programming Fundamentals:
+The literal entry point to your Computer Science journey. The motive behind the course is to gain a problem-solving approach rather than memorizing code and patterns. The best advice is to stay consistent, don't let the flow fade away. The more questions you practice, the faster you build the logic for your solutions. It generally doesn't matter if you have got a coding background, the assessments (mid-terms and quizzes especially) humble the best of every batch. Strive for learning concepts rather than cramming up code copied from AI tools. The topics introduced in Programming Fundamentals are core prerequisites to future CS courses; pointers & DMA -> [OOP](https://github.com/MuxammilSidd/FAST-KHI-Semester-2/tree/main/OOP%20(Theory)), recursion -> [DSA](https://github.com/MuxammilSidd/FAST-KHI-Semester-3/tree/main/Data%20Structures%20(Theory)), etc.
+For practice you can look for problems on <i>[Leetcode](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://leetcode.com/&ved=2ahUKEwj4iNT8lpyPAxXRTaQEHbQrFQAQFnoECAsQAQ&usg=AOvVaw1wTHj-6jLn7cx7306Wwc9S), [Hackerrank](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hackerrank.com/&ved=2ahUKEwiukfaDl5yPAxUZVKQEHUcwGrMQFnoECBUQAQ&usg=AOvVaw04BnYscQa-eADGvsV1QAzI)</i> etc. On the academic side, [past-papers](https://github.com/MuxammilSidd/FAST-KHI-Semester-1/tree/main/Programming%20Fundamentals%20(Theory)/Past%20Papers) are the best resource; after getting a good grip on concepts, move on to solve the past-papers to test your concepts and areas you need to review.
+Everyone remembers how they fumbled their PF Lab Midterm, and it's completely normal. Almost as if it is a <i>[canon event](https://www.merriam-webster.com/slang/canon-event)</i> for every FASTian. Lab exams feel very tough if you hadn't been completing your assignments yourself. Don't get too stressed over lab task deadlines!
 
 🔗 Useful Youtube Playlists:
 - [C Language Tutorials by CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR&si=EBqLGB9FRwKzwqMQ)
@@ -226,6 +229,7 @@ Want good marks? Practice all questions in the given exercise-sets in your Calcu
 ---
 
 ### 📌 Functional English:
+Previously known as <i>English Composition & Comprehension (ECC)</i> and perhaps the least liked course by students of first semester at FAST. The dislike mainly comes from the tiresome assignment deadlines and projects. Adequate seriousness during lectures and active participation is enough to get you a decent grade. Sometimes, the theory and lab curriculums follow different directions when they should have been supporting each other. Either way, it is an under-appreciated break from other demanding subjects such as PF, CAL and AP. An important time to build up confidence and groom up skills that'll be beneficial for the future!
 
 🔗 Resources:
 - [FE/ECC Wondar.site](https://www.wondar.site/subject/english-comprehension-and-composition-eng-comp) - Vast pool of FAST NU resources. Note: All content is from LHR Campus.
@@ -236,6 +240,7 @@ Want good marks? Practice all questions in the given exercise-sets in your Calcu
 ---
 
 ### 📌 Islamic Studies:
+Perhaps another subject that is under-appreciated along the 'fast'-pace of the first semester. Slides are enough material to get a decent grade. Keeping references and having neat presentation is how the best ace in this course. The lack of past-papers for Islamic Studies is due to the ease of this course, and generally the same pattern is followed each semester. Short questions, descriptive questions, and a Zakaat Case-Study (quite everytime).
 
 🔗 Resources:
 - [IRS Wondar.site](https://www.wondar.site/subject/islamic-studies) - Vast pool of FAST NU resources. Note: All content is from LHR Campus.
@@ -246,6 +251,7 @@ Want good marks? Practice all questions in the given exercise-sets in your Calcu
 ---
 
 ### 📌 Introduction to Information & Communication Technology:
+ICT is a very interesting lab course during which each semester, a different outline is followed mainly depending on the instructor. It is a doorway to many different areas of Computer Science, and a rushed experience. One lab you might be taught some aspects of web-development, and the next lab will introduce you to computer networking. A fun learning oppurtunity which many students over-complicate and stress without any reason. Past-papers can be of little to no help as every instructor tends to have a section-specific exam, as different instructors can be teaching different curriculums during the same semester. Completing your assignments yourself puts you ahead in exams and gets you an easy A-grade!
 
 🔗 Resources:
 - [ICT Wondar.site](https://www.wondar.site/subject/introduction-to-ict-iict) - Vast pool of FAST NU resources. Note: All content is from LHR Campus.
