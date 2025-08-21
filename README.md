@@ -13,6 +13,8 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 
 - [4th Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-4)
 
+- [5th Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-5)
+
 ### 🔗 Guide to get you started
 - [Useful websites you should know!](#-useful-websites-you-should-know)
 
@@ -240,7 +242,8 @@ Previously known as <i>English Composition & Comprehension (ECC)</i> and perhaps
 ---
 
 ### 📌 Islamic Studies:
-Perhaps another subject that is under-appreciated along the 'fast'-pace of the first semester. Slides are enough material to get a decent grade. Keeping references and having neat presentation is how the best ace in this course. The lack of past-papers for Islamic Studies is due to the ease of this course, and generally the same pattern is followed each semester. Short questions, descriptive questions, and a Zakaat Case-Study (quite everytime).
+Perhaps another subject that is under-appreciated along the 'fast'-pace of the first semester. Slides are enough material to get a decent grade. Keeping references and having neat presentation is how the best ace in this course. The lack of past-papers for Islamic Studies is due to the ease of this course, and generally the same pattern is followed each semester. Short questions, descriptive questions, and a Zakaat Case-Study (quite everytime).   
+*Note*: Non-Muslim students are required to take '<i>Ethics</i>' instead of Islamic Studies.
 
 🔗 Resources:
 - [IRS Wondar.site](https://www.wondar.site/subject/islamic-studies) - Vast pool of FAST NU resources. Note: All content is from LHR Campus.
